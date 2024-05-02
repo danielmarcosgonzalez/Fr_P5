@@ -2,7 +2,7 @@ import { useSignal } from "@preact/signals";
 import Counter from "../islands/Counter.tsx";
 import { useState } from "preact/hooks";
 import { Estado } from "../type.ts";
-import AddTarea from "../islands/addTarea.tsx";
+import AddTarea from "../islands/AddTarea.tsx";
 
 export default function Home() {
   
